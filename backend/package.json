@@ -1,0 +1,14 @@
+{
+  "name": "server-proyecto",
+  "version": "1.0.0",
+  "description": "Servidor para el desarrolo del proyecto Intelieco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alfredo jose dominguez hernandez",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

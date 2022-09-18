@@ -1,0 +1,183 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alfredo Dominguez",
+      "email": "alfredo@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "name": "Jose Dominguez",
+      "email": "jose@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "name": "Daniel Dominguez",
+      "email": "daniel@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 4,
+      "name": "maria Dominguez",
+      "email": "maria@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "7898",
+      "name": "prueba",
+      "email": "prueba@gmail.com",
+      "password": "alfredo06"
+    },
+    {
+      "id": "2798",
+      "name": "Andres",
+      "email": "andres@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "1718",
+      "name": "alvaro",
+      "email": "alvaro@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "3430",
+      "name": "alamar",
+      "email": "alamar@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "logueado": [
+    {
+      "id": "3430",
+      "name": "alamar",
+      "email": "alamar@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "name": "Hojas",
+      "categoria": "papel",
+      "price": 800,
+      "image": "https://ichef.bbci.co.uk/news/800/cpsprodpb/825F/production/_110457333_24ac4fe0-35bc-4831-a4c4-a348be3d587e.jpg.webp"
+    },
+    {
+      "id": 2,
+      "name": "Carton",
+      "categoria": "papel",
+      "price": 120000,
+      "image": "https://www.ambientum.com/wp-content/uploads/2018/03/envases-residuos-5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Bolsas",
+      "categoria": "Plastico",
+      "price": 20000,
+      "image": "https://ecoblog.mcp.es/l4r/wp-content/uploads/2012/01/Reciclaje-de-tabaco-en-abono-para-plantas-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Botellas",
+      "categoria": "Plastico",
+      "price": 120000,
+      "image": "https://www.residuosprofesional.com/wp-content/uploads/2020/04/materiales-reciclados-copyright-RESIDUOS-PROFESIONAL.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cigarrillo",
+      "categoria": "Tabaco",
+      "price": 180000,
+      "image": "https://www.forestalmaderero.com/wp-content/uploads/2018/07/desechos-de-madera.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Canastas",
+      "categoria": "Plastico",
+      "price": 10000,
+      "image": "https://918230.smushcdn.com/2283449/wp-content/uploads/2020/12/residuos-organicos-frutas-y-verduras.jpg?lossy=1&strip=1&webp=1"
+    },
+    {
+      "id": 7,
+      "name": "Tablas",
+      "categoria": "Madera",
+      "price": 20000,
+      "image": "https://www.residuosprofesional.com/wp-content/uploads/2020/04/materiales-reciclados-copyright-RESIDUOS-PROFESIONAL.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Abono para plantas",
+      "categoria": "Frutas",
+      "price": 160000,
+      "image": "https://i0.wp.com/www.lurconsultores.com/wp-content/uploads/2018/09/garbage-331929_1920.jpg?fit=1920%2C1440&ssl=1"
+    },
+    {
+      "id": 8,
+      "name": "Frascos",
+      "categoria": "Hierro",
+      "price": 300000,
+      "image": "https://www.expoknews.com/wp-content/uploads/2018/09/Basura-electro%CC%81nica-cada-vez-la-cantidad-es-mayor2-1024x562.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Botellas",
+      "categoria": "Plastico",
+      "price": 120000,
+      "image": "https://www.residuosprofesional.com/wp-content/uploads/2020/04/materiales-reciclados-copyright-RESIDUOS-PROFESIONAL.jpg"
+    }
+  ],
+  "productDeilts": [],
+  "carrito": [
+    {
+      "id": "3",
+      "name": "Bolsas",
+      "categoria": "Plastico",
+      "price": "20000",
+      "image": "https://ecoblog.mcp.es/l4r/wp-content/uploads/2012/01/Reciclaje-de-tabaco-en-abono-para-plantas-1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Carton",
+      "categoria": "papel",
+      "price": "120000",
+      "image": "https://www.ambientum.com/wp-content/uploads/2018/03/envases-residuos-5.jpg"
+    }
+  ],
+  "order": [
+    {
+      "fecha": "05.31.22",
+      "id": "9234",
+      "estado": "sin entregar",
+      "statusBuy": "pagado",
+      "cantidad": "2",
+      "total": "240000"
+    },
+    {
+      "fecha": "06.06.22",
+      "id": "8998",
+      "estado": "sin entregar",
+      "statusBuy": "pagado",
+      "cantidad": "2",
+      "total": "240000"
+    },
+    {
+      "fecha": "06.06.22",
+      "id": "8737",
+      "estado": "sin entregar",
+      "statusBuy": "pagado",
+      "cantidad": "1",
+      "total": "20000"
+    },
+    {
+      "fecha": "06.08.22",
+      "id": "5104",
+      "estado": "sin entregar",
+      "statusBuy": "pagado",
+      "cantidad": "2",
+      "total": "140000"
+    }
+  ]
+}
